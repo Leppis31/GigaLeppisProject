@@ -119,6 +119,10 @@ body {
     
 }
 
+.ln{
+    transition: all 0.3s ease;
+}
+
 .ln:hover{
     transform:scale(1.25) perspective(1px)
 }
