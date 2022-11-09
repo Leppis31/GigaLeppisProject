@@ -130,34 +130,34 @@ body {
 
 .ln.ln-1{
     cursor: pointer;
-    background-image: url(kotisivukuvat/steambackground2.png);
+    background-image: url(linkskuvat/steambackground2.png);
     width: 780px;
     height: 56px;
 }
 .ln.ln-2{
     cursor: pointer;
-    background-image: url(kotisivukuvat/wowbackground1.png);
+    background-image: url(linkskuvat/wowbackground1.png);
     margin-top: 5px;
     width: 780px;
     height: 56px;
 }
 .ln.ln-3{
     cursor: pointer;
-    background-image: url(kotisivukuvat/checkpvp1.png);
+    background-image: url(linkskuvat/checkpvp1.png);
     margin-top: 5px;
     width: 780px;
     height: 56px;
 }
 .ln.ln-4{
     cursor: pointer;
-    background-image: url(kotisivukuvat/Osu!background.png);
+    background-image: url(linkskuvat/Osu!background.png);
     margin-top: 5px;
     width: 780px;
     height: 56px;
 }
 .ln.ln-5{
     cursor: pointer;
-    background-image: url(kotisivukuvat/Myanimelistbackground.png);
+    background-image: url(linkskuvat/Myanimelistbackground.png);
     margin-top: 5px;
     width: 780px;
     height: 50px;
