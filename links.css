@@ -58,15 +58,14 @@ body {
 
 .nappivalikko {
     margin: 1rem;
-    padding: 0;
-    margin-top: 3px;
+    margin-left: 23px;
     margin-top: -40px;
 }
 
 
 .btn {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    width: 180px;
+    width: 240px;
     background-color: var(--backround-color);
     color: rgba(0, 255, 255, 0.548);
     padding: 10px;
@@ -116,6 +115,7 @@ body {
 
 .Linkit{
     display: block;
+
     
 }
 
@@ -127,38 +127,43 @@ body {
     transform:scale(1.25) perspective(1px)
 }
 
+
 .ln.ln-1{
     cursor: pointer;
-    background-image: url(linkskuvat/steambackground2.png);
+    background-image: url(kotisivukuvat/steambackground2.png);
     width: 780px;
     height: 56px;
 }
 .ln.ln-2{
     cursor: pointer;
-    background-image: url(linkskuvat/wowbackground1.png);
+    background-image: url(kotisivukuvat/wowbackground1.png);
     margin-top: 5px;
     width: 780px;
     height: 56px;
 }
 .ln.ln-3{
     cursor: pointer;
-    background-image: url(linkskuvat/checkpvp1.png);
+    background-image: url(kotisivukuvat/checkpvp1.png);
     margin-top: 5px;
     width: 780px;
     height: 56px;
 }
 .ln.ln-4{
     cursor: pointer;
-    background-image: url(linkskuvat/Osu!background.png);
+    background-image: url(kotisivukuvat/Osu!background.png);
     margin-top: 5px;
     width: 780px;
     height: 56px;
 }
 .ln.ln-5{
     cursor: pointer;
-    background-image: url(linkskuvat/Myanimelistbackground.png);
+    background-image: url(kotisivukuvat/Myanimelistbackground.png);
     margin-top: 5px;
     width: 780px;
     height: 50px;
 }
 
+.Lippu {
+    float: right;
+    margin-top: 218px;
+}
